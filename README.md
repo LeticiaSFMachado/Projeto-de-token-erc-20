@@ -6,3 +6,10 @@ Criei uma área de trabalho no ganache para receber endereços de contas de test
 Com as contas e a rede registradas na Metamask, é possível usá-las em testes na Remix IDE e realizar transferências entre elas. 
 Na Remix IDE o código de token foi criado e as contas foram usadas para os testes. 
 A cópia do código estará nesse repositório.
+
+
+
+Links das plataformas utilizadas:
+Ganache: https://archive.trufflesuite.com/ganache/
+Metamask: https://metamask.io/
+Remix IDE: https://remix.ethereum.org/
